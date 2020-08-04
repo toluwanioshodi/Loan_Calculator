@@ -48,5 +48,5 @@ function showError(error){
     setTimeout(clearError, 2500)
 }
 function clearError(){
-    document.querySelector('.alert').remove()dggdgd
+    document.querySelector('.alert').remove()
 }
